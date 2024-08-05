@@ -4,7 +4,7 @@ I am a strong leader and communicator with a proven track record of success in m
 
 ## Experience
 
-** Senior Live Ops Engineer at Fortis | São Paulo**  
+**Senior Live Ops Engineer at Fortis | São Paulo**  
 *November 2023—Present*  
 Leading the technical architecture of the shared Live Ops Unity3D tools. Communicating with stakeholders and internal clients to ensure that the tools are generic to work with multiple games, but customizable to attend some games specific needs. 
 
